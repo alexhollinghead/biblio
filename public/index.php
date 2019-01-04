@@ -1,8 +1,9 @@
 <?php include "templates/header.php"; ?>
 
 <ul>
-    <li><a href="create.php"><b>Create</b></a> - add an entry</li>
-    <li><a href="read.php"><b>Read</b></a> - find an entry</li>
+    <li><a href="create.php"><strong>Create</strong></a></li>
+    <li><a href="find.php"><strong>Find</strong></a></li>
+    <li><a href="edit.php"><strong>Edit</strong></a></li>
 </ul>
 
 <?php include "templates/footer.php"; ?>
